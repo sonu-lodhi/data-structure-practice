@@ -33,7 +33,7 @@ public class StackSolution {
         Iterator it = stack.iterator();
         while (it.hasNext()){
             Object stack1 = it.next();
-            System.out.print(stack1);
+            System.out.print(" "+stack1);
         }
         System.out.println();
         System.out.println(stack.size());

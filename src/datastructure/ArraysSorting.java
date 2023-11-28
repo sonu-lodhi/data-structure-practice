@@ -34,9 +34,10 @@ public class ArraysSorting {
 
         int indexSearch = searching(arr, key);
 
-        if(indexSearch == -1){
+        if(indexSearch < 0){
             System.out.println("Element not found");
+        }if(indexSearch>=0) {
+            System.out.println("Element is found and is at index : " + indexSearch);
         }
-        System.out.println("Element is found and is at index : "+indexSearch);
     }
 }
