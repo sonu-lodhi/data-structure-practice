@@ -1,2 +1,4 @@
-package collectionframework.array;public class IntermediateArrayS1 {
+package collectionframework.array;
+
+public class IntermediateArrayS1 {
 }

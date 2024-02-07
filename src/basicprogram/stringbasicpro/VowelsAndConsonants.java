@@ -1,4 +1,4 @@
-package basicprogram;
+package basicprogram.stringbasicpro;
 
 import java.util.Scanner;
 

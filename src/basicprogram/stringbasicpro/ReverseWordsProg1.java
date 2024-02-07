@@ -1,4 +1,4 @@
-package basicprogram;
+package basicprogram.stringbasicpro;
 //Write a program to reverse words in java program.
 public class ReverseWordsProg1 {
     public static void main(String[] args) {

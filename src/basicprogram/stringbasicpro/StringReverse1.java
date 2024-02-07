@@ -1,4 +1,4 @@
-package basicprogram;
+package basicprogram.stringbasicpro;
 //write a program to reverse string in java
 public class StringReverse1 {
     public static void main(String[] args) {

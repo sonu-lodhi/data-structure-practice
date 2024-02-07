@@ -2,7 +2,7 @@ package basicprogram.programs;
 
 import java.util.Scanner;
 
-public class LogicPro1 {
+public class ConvertDigitsNumToRomin {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter any number : ");

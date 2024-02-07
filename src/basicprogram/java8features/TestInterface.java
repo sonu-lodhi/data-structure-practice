@@ -1,2 +1,10 @@
-package basicprogram.java8features;public interface TestInterface {
+package basicprogram.java8features;
+
+@FunctionalInterface
+public interface TestInterface {
+    void cal();
+    default void test(){
+
+    }
+
 }

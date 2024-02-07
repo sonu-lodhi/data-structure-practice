@@ -1,4 +1,4 @@
-package basicprogram;
+package basicprogram.stringbasicpro;
 
 public class CountSumOfNumFromString {
     public static void main(String[] args) {

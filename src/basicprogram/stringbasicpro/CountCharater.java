@@ -1,4 +1,4 @@
-package basicprogram;
+package basicprogram.stringbasicpro;
 
 public class CountCharater {
     public static void main(String[] args) {

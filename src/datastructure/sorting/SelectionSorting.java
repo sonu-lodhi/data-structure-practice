@@ -1,4 +1,4 @@
-package datastructure.searching;
+package datastructure.sorting;
 
 import java.util.Scanner;
 

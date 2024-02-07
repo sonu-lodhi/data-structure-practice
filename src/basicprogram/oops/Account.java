@@ -1,6 +1,6 @@
-package basicprogram.oops.entity;
+package basicprogram.oops;
 
-protected class Account {
+public abstract class Account {
     Long accountNo;
     String ifscCode;
 
